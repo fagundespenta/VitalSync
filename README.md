@@ -1,26 +1,10 @@
-<p align="center">
-  <img src="site/imagens/logo.png" alt="VitalSync logo" width="120">
-</p>
+# VitalSync
 
-<h1 align="center">VitalSync</h1>
-<p align="center"><em>Coding health. Transforming lives.</em></p>
+Android health app for medication reminders, symptom tracking and health records.
 
-<p align="center">
-  <a href="https://vitalsync-96876.web.app"><b>🌐 Live website</b></a> ·
-  <a href="#-english">English</a> ·
-  <a href="#-português">Português</a>
-</p>
+Website: https://vitalsync-96876.web.app · [Português](#português)
 
-<p align="center">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-ES2022-F7DF1E?logo=javascript&logoColor=black">
-  <img alt="Capacitor" src="https://img.shields.io/badge/Capacitor-8-119EFF?logo=capacitor&logoColor=white">
-  <img alt="Android" src="https://img.shields.io/badge/Android-app-3DDC84?logo=android&logoColor=white">
-  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-Auth%20%2B%20Firestore-FFCA28?logo=firebase&logoColor=black">
-  <img alt="Chart.js" src="https://img.shields.io/badge/Chart.js-4-FF6384?logo=chartdotjs&logoColor=white">
-  <img alt="AI" src="https://img.shields.io/badge/AI-OpenAI%20%7C%20Gemini-412991?logo=openai&logoColor=white">
-</p>
-
-<p align="center">
+<p>
   <img src="site/imagens/01-hoje.jpg" width="160" alt="Today screen">
   <img src="site/imagens/02-remedios.jpg" width="160" alt="Medications screen">
   <img src="site/imagens/03-graficos.jpg" width="160" alt="Charts screen">
@@ -30,9 +14,9 @@
 
 ---
 
-## 🇺🇸 English
+## English
 
-**VitalSync** is an Android health app that helps people of all ages — especially older adults and people who struggle with typing — take their medication on time, track symptoms, and bring organized data to their doctor.
+VitalSync is an Android health app that helps people of all ages — especially older adults and people who struggle with typing — take their medication on time, track symptoms, and bring organized data to their doctor.
 
 > This repository is a **code showcase**: it contains the most complex modules of the app and the full source of the download website. The complete app source is kept private.
 
@@ -72,9 +56,9 @@ VitalSync was built by a team (developer, designer, project manager, solutions a
 
 ---
 
-## 🇧🇷 Português
+## Português
 
-**VitalSync** é um app Android de saúde que ajuda pessoas de todas as idades — principalmente idosos e quem tem dificuldade para digitar — a tomar os remédios na hora certa, acompanhar sintomas e levar informações organizadas para a consulta médica.
+O VitalSync é um app Android de saúde que ajuda pessoas de todas as idades — principalmente idosos e quem tem dificuldade para digitar — a tomar os remédios na hora certa, acompanhar sintomas e levar informações organizadas para a consulta médica.
 
 > Este repositório é uma **vitrine de código**: traz os módulos mais complexos do app e o código completo do site de download. O código completo do aplicativo é privado.
 
@@ -114,4 +98,4 @@ O VitalSync foi feito em equipe (desenvolvedor, designer, gestor de projeto, arq
 
 ---
 
-<p align="center">© Pedro Henrique Siqueira Fagundes. All rights reserved · Todos os direitos reservados.</p>
+© Pedro Henrique Siqueira Fagundes. All rights reserved. Todos os direitos reservados.
