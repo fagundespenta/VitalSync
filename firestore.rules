@@ -1,0 +1,11 @@
+rules_version = '2';
+// Regras de segurança do Firestore do VitalSync.
+// Cada pessoa só pode ler e gravar a própria pasta: users/{id da conta}/...
+// Cole este conteúdo em: Console do Firebase → Firestore Database → aba "Regras" → Publicar.
+service cloud.firestore {
+  match /databases/{database}/documents {
+    match /users/{userId}/{document=**} {
+      allow read, write: if request.auth != null && request.auth.uid == userId;
+    }
+  }
+}

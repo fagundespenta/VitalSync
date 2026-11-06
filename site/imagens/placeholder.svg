@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 760" width="360" height="760">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#e3edfa"/>
+      <stop offset="1" stop-color="#d4f1ef"/>
+    </linearGradient>
+  </defs>
+  <rect width="360" height="760" fill="url(#g)"/>
+  <rect x="24" y="40" width="312" height="64" rx="16" fill="#ffffff" opacity=".9"/>
+  <rect x="24" y="124" width="312" height="150" rx="20" fill="#ffffff" opacity=".9"/>
+  <rect x="24" y="294" width="312" height="150" rx="20" fill="#ffffff" opacity=".9"/>
+  <rect x="24" y="464" width="312" height="150" rx="20" fill="#ffffff" opacity=".9"/>
+  <g transform="translate(180 360)" text-anchor="middle" font-family="Arial, sans-serif">
+    <circle r="44" fill="#0b47a8" opacity=".12"/>
+    <text y="16" font-size="44">📱</text>
+    <text y="84" font-size="20" font-weight="700" fill="#0b47a8">VitalSync</text>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+{
+  "versionCode": 3,
+  "versionName": "2.6",
+  "required": false,
+  "url": "https://drive.usercontent.google.com/download?id=1zA7thMWoCQxKZ5FVhpU83M1FK3ubNAUJ&export=download&confirm=t",
+  "notes": {
+    "pt": ["Nova tela \"Sobre e créditos\" com a equipe do projeto.", "Aviso automático quando houver uma versão nova do app."],
+    "en": ["New \"About and credits\" screen with the project team.", "Automatic notice when a new version of the app is available."],
+    "es": ["Nueva pantalla «Acerca de y créditos» con el equipo del proyecto.", "Aviso automático cuando haya una nueva versión de la app."]
+  }
+}
